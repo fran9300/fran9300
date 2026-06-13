@@ -62,56 +62,60 @@ Skilled in Python, SQL, Power BI, and machine learning, with a strong interest i
 
 ## Featured Projects
 
-### 📉 Telco Customer Churn Analysis & Dashboard
+## 📉 Telco Customer Churn Analysis & Dashboard
 
 End-to-end analytics project focused on customer retention and revenue-risk analysis.
 
-**Key Achievements**
+### Key Achievements
 
-* Processed and cleaned raw customer data using Python.
-* Built customer tenure cohorts to identify churn patterns.
-* Developed an interactive Power BI dashboard.
-* Identified more than $4M in revenue at risk.
-* Generated actionable recommendations to support retention strategies.
+- Processed and cleaned raw customer data using Python.
+- Built customer tenure cohorts to identify churn patterns.
+- Developed an interactive Power BI dashboard.
+- Identified more than $4M in revenue at risk.
+- Generated actionable recommendations to support retention strategies.
 
 **Tech Stack:** Python, Pandas, NumPy, Power BI, DAX
 
-Repository:
-https://github.com/fran9300/Telco-Customer-Churn-Analysis
+**Repository:** https://github.com/fran9300/Telco-Customer-Churn-Analysis
 
 ---
 
-### 🧬 E1A Protein Analysis & Disorder Prediction
+## 🧬 E1A Protein Analysis & Disorder Prediction
 
 End-to-end bioinformatics workflow for protein sequence analysis and disorder prediction.
 
-Key Achievements
+### Key Achievements
 
-* Processed and analyzed multiple sequence alignments (MSA).
-* Computed sequence identity and amino acid frequency statistics.
-* Estimated hydrodynamic radius and charge-related properties.
-* Integrated AIUPred predictions into aligned protein sequences.
-* Produced reproducible analyses and visualizations in Python.
+- Processed and analyzed multiple sequence alignments (MSA).
+- Computed sequence identity and amino acid frequency statistics.
+- Estimated hydrodynamic radius and charge-related properties.
+- Integrated AIUPred predictions into aligned protein sequences.
+- Produced reproducible analyses and visualizations in Python.
 
 **Tech Stack:** Python, BioPython, LocalCIDER, AIUPred, Matplotlib
 
-Repository: https://github.com/fran9300/bioinformatics-e1a-analysis
+**Repository:** https://github.com/fran9300/bioinformatics-e1a-analysis
 
 ---
 
-### 🍺 Brewery Management API (In Progress)
+## 🍺 Brewery Management API *(In Progress)*
 
 REST API developed with Spring Boot for managing beer recipes and brewing ingredients.
 
-Current Achievements
+### Key Achievements
 
-* Implemented a layered architecture based on Controller, Service, and Repository patterns.
-* Developed REST endpoints for ingredient and recipe management.
-* Modeled entity relationships using JPA/Hibernate.
-* Implemented data persistence with Spring Data JPA.
-* Applied dependency injection and backend development best practices.
+- Implemented a layered architecture based on Controller, Service, and Repository patterns.
+- Developed REST endpoints for ingredient and recipe management.
+- Modeled entity relationships using JPA/Hibernate.
+- Implemented data persistence with Spring Data JPA.
+- Applied dependency injection and backend development best practices.
 
-**Upcoming:** PostgreSQL integration, Swagger/OpenAPI documentation, validation, exception handling, and unit testing.
+### Upcoming
+
+- PostgreSQL integration.
+- Swagger/OpenAPI documentation.
+- Validation and exception handling.
+- Unit testing.
 
 **Tech Stack:** Java, Spring Boot, Spring Data JPA, Hibernate, Maven, Lombok
 
@@ -189,36 +193,35 @@ Especializado en Python, SQL, Power BI y aprendizaje automático, con interés e
 
 ## Proyectos Destacados
 
-### 📉 Análisis de Churn y Dashboard de Retención
+## 📉 Análisis de Churn y Dashboard de Retención
 
 Proyecto integral de analítica enfocado en la retención de clientes y la reducción del riesgo financiero.
 
-**Logros Principales**
+### Logros Principales
 
-* Limpieza y transformación de datos utilizando Python.
-* Construcción de cohortes de clientes para detectar patrones de abandono.
-* Desarrollo de un dashboard interactivo en Power BI.
-* Identificación de más de USD 4 millones en riesgo.
-* Generación de recomendaciones para estrategias de retención.
+- Procesé y depuré datos de clientes utilizando Python.
+- Construí cohortes de clientes para identificar patrones de abandono.
+- Desarrollé un dashboard interactivo en Power BI.
+- Identifiqué más de USD 4 millones en riesgo.
+- Generé recomendaciones accionables para estrategias de retención.
 
 **Tecnologías:** Python, Pandas, NumPy, Power BI, DAX
 
-Repositorio:
-https://github.com/fran9300/Telco-Customer-Churn-Analysis
+**Repositorio:** https://github.com/fran9300/Telco-Customer-Churn-Analysis
 
 ---
 
-### 🧬 Análisis de Proteínas E1A y Predicción de Desorden
+## 🧬 Análisis de Proteínas E1A y Predicción de Desorden
 
 Flujo de trabajo bioinformático integral para el análisis de secuencias proteicas y la caracterización de regiones intrínsecamente desordenadas.
 
-Logros Principales
+### Logros Principales
 
-* Procesé y analicé alineamientos múltiples de secuencias (MSA).
-* Calculé identidad de secuencia y estadísticas de frecuencia de aminoácidos.
-* Estimé el radio hidrodinámico y propiedades relacionadas con la distribución de cargas.
-* Integré predicciones de AIUPred en secuencias proteicas alineadas.
-* Generé análisis reproducibles y visualizaciones utilizando Python.
+- Procesé y analicé alineamientos múltiples de secuencias (MSA).
+- Calculé identidad de secuencia y estadísticas de frecuencia de aminoácidos.
+- Estimé el radio hidrodinámico y propiedades relacionadas con la distribución de cargas.
+- Integré predicciones de AIUPred en secuencias proteicas alineadas.
+- Generé análisis reproducibles y visualizaciones utilizando Python.
 
 **Tecnologías:** Python, BioPython, LocalCIDER, AIUPred, Matplotlib
 
@@ -226,19 +229,24 @@ Logros Principales
 
 ---
 
-### 🍺 API de Gestión de Cervecería (En Desarrollo)
+## 🍺 API de Gestión de Cervecería *(En Desarrollo)*
 
 API REST desarrollada con Spring Boot para la gestión de recetas e ingredientes utilizados en la elaboración de cerveza.
 
-Logros Actuales
+### Logros Principales
 
-* Implementé una arquitectura en capas basada en los patrones Controller, Service y Repository.
-* Desarrollé endpoints REST para la gestión de ingredientes y recetas.
-* Modelé relaciones entre entidades utilizando JPA/Hibernate.
-* Implementé persistencia de datos mediante Spring Data JPA.
-* Apliqué inyección de dependencias y buenas prácticas de desarrollo backend.
+- Implementé una arquitectura en capas basada en los patrones Controller, Service y Repository.
+- Desarrollé endpoints REST para la gestión de ingredientes y recetas.
+- Modelé relaciones entre entidades utilizando JPA/Hibernate.
+- Implementé persistencia de datos mediante Spring Data JPA.
+- Apliqué inyección de dependencias y buenas prácticas de desarrollo backend.
 
-**Próximamente:** integración con PostgreSQL, documentación con Swagger/OpenAPI, validaciones, manejo de excepciones y pruebas unitarias.
+### Próximamente
+
+- Integración con PostgreSQL.
+- Documentación con Swagger/OpenAPI.
+- Validaciones y manejo de excepciones.
+- Pruebas unitarias.
 
 **Tecnologías:** Java, Spring Boot, Spring Data JPA, Hibernate, Maven, Lombok
 
