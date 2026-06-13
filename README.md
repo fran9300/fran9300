@@ -80,9 +80,6 @@ End-to-end analytics project focused on customer retention and revenue-risk anal
 Repository:
 https://github.com/fran9300/Telco-Customer-Churn-Analysis
 
-Live Dashboard:
-https://fran9300.github.io/Telco-Customer-Churn-Analysis/
-
 ---
 
 ### ☕ Brewery Management System (In Development)
@@ -93,11 +90,21 @@ Backend application designed for inventory management and production workflows u
 
 ---
 
-### 🧬 Protein Chain Analysis & Structural Modeling (Upcoming)
+### 🧬 E1A Protein Analysis & Disorder Prediction
 
-Bioinformatics project focused on protein sequence analysis, molecular data processing, and secondary structure prediction using Python.
+End-to-end bioinformatics workflow for protein sequence analysis and disorder prediction.
 
-**Tech Stack:** Python, Bioinformatics, Data Analysis
+Key Achievements
+
+* Processed and analyzed multiple sequence alignments (MSA).
+* Computed sequence identity and amino acid frequency statistics.
+* Estimated hydrodynamic radius and charge-related properties.
+* Integrated AIUPred predictions into aligned protein sequences.
+* Produced reproducible analyses and visualizations in Python.
+
+**Tech Stack:** Python, BioPython, LocalCIDER, AIUPred, Matplotlib
+
+Repository: https://github.com/fran9300/bioinformatics-e1a-analysis
 
 ---
 
@@ -189,9 +196,6 @@ Proyecto integral de analítica enfocado en la retención de clientes y la reduc
 Repositorio:
 https://github.com/fran9300/Telco-Customer-Churn-Analysis
 
-Proyecto Online:
-https://fran9300.github.io/Telco-Customer-Churn-Analysis/
-
 ---
 
 ### ☕ Sistema de Gestión para Cervecerías (En Desarrollo)
@@ -202,11 +206,21 @@ Aplicación backend diseñada para la gestión de inventario y flujos de producc
 
 ---
 
-### 🧬 Análisis de Proteínas y Modelado Estructural (Próximamente)
+### 🧬 Análisis de Proteínas E1A y Predicción de Desorden
 
-Proyecto de bioinformática enfocado en el análisis de secuencias proteicas, procesamiento de datos moleculares y predicción de estructuras secundarias.
+Flujo de trabajo bioinformático integral para el análisis de secuencias proteicas y la caracterización de regiones intrínsecamente desordenadas.
 
-**Tecnologías:** Python, Bioinformática, Análisis de Datos
+Logros Principales
+
+* Procesé y analicé alineamientos múltiples de secuencias (MSA).
+* Calculé identidad de secuencia y estadísticas de frecuencia de aminoácidos.
+* Estimé el radio hidrodinámico y propiedades relacionadas con la distribución de cargas.
+* Integré predicciones de AIUPred en secuencias proteicas alineadas.
+* Generé análisis reproducibles y visualizaciones utilizando Python.
+
+**Tecnologías:** Python, BioPython, LocalCIDER, AIUPred, Matplotlib
+
+**Repositorio:** https://github.com/fran9300/bioinformatics-e1a-analysis
 
 ---
 
