@@ -1,4 +1,4 @@
-# Francisco Kin | Data Analyst & Software Developer
+# Francisco Kin | Data Analyst | Bioinformatics Student
 
 [🇬🇧 English](#english) | [🇪🇸 Español](#español)
 
@@ -17,9 +17,9 @@
 
 ## About Me
 
-Data Analyst and Software Developer with experience in clinical data operations, logistics, and technical support. Currently pursuing a Bachelor's Degree in Bioinformatics at UADE, combining analytical thinking, scientific methodology, and programming skills to transform complex datasets into actionable business insights and scalable software solutions.
+Data Analyst and Bioinformatics student with experience in clinical data management, data quality assurance, and data-driven decision support.
 
-My experience at IQVIA Laboratories strengthened my expertise in data integrity, quality assurance, and regulatory compliance while working with high-volume clinical datasets. Additionally, my background in logistics and technical support developed strong problem-solving, process optimization, and stakeholder communication skills.
+Skilled in Python, SQL, Power BI, and machine learning, with a strong interest in applying analytical solutions to healthcare, life sciences, and business intelligence.
 
 ---
 
@@ -126,9 +126,9 @@ Interested in Data Analyst, Business Intelligence Analyst, Junior Data Scientist
 
 ## Sobre Mí
 
-Analista de Datos y Desarrollador de Software con experiencia en operaciones de datos clínicos, logística y soporte técnico. Actualmente curso la Licenciatura en Bioinformática en UADE, combinando pensamiento analítico, metodología científica y programación para transformar datos complejos en información valiosa para la toma de decisiones y el desarrollo de soluciones tecnológicas escalables.
+Analista de Datos y estudiante de Bioinformática con experiencia en gestión de datos clínicos, control de calidad y análisis de datos para la toma de decisiones.
 
-Mi experiencia en IQVIA Laboratories fortaleció mis conocimientos en integridad de datos, control de calidad y cumplimiento regulatorio trabajando con datasets clínicos de alto volumen. Además, mi trayectoria en logística y soporte técnico desarrolló sólidas capacidades de resolución de problemas, optimización de procesos y comunicación con diferentes áreas de negocio.
+Especializado en Python, SQL, Power BI y aprendizaje automático, con interés en aplicar soluciones basadas en datos en los ámbitos de la salud, las ciencias de la vida y la inteligencia de negocios.
 
 ---
 
