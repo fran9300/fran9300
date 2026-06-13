@@ -11,7 +11,6 @@
 * LinkedIn: https://linkedin.com/in/francisco-kin
 * Email: [frankin930@gmail.com](mailto:frankin930@gmail.com)
 * GitHub: https://github.com/fran9300
-* Portfolio: https://fran9300.github.io/Telco-Customer-Churn-Analysis/
 
 ---
 
@@ -127,7 +126,6 @@ Interested in Data Analyst, Business Intelligence Analyst, Junior Data Scientist
 * LinkedIn: https://linkedin.com/in/francisco-kin
 * Email: [frankin930@gmail.com](mailto:frankin930@gmail.com)
 * GitHub: https://github.com/fran9300
-* Portfolio: https://fran9300.github.io/Telco-Customer-Churn-Analysis/
 
 ---
 
