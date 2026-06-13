@@ -1,16 +1,221 @@
-## Hi there 👋
+# Francisco Kin | Data Analyst & Software Developer
 
-<!--
-**fran9300/fran9300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[🇬🇧 English](#english) | [🇪🇸 Español](#español)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# English
+
+## Contact
+
+* LinkedIn: https://linkedin.com/in/francisco-kin
+* Email: [frankin930@gmail.com](mailto:frankin930@gmail.com)
+* GitHub: https://github.com/fran9300
+* Portfolio: https://fran9300.github.io/Telco-Customer-Churn-Analysis/
+
+---
+
+## About Me
+
+Data Analyst and Software Developer with experience in clinical data operations, logistics, and technical support. Currently pursuing a Bachelor's Degree in Bioinformatics at UADE, combining analytical thinking, scientific methodology, and programming skills to transform complex datasets into actionable business insights and scalable software solutions.
+
+My experience at IQVIA Laboratories strengthened my expertise in data integrity, quality assurance, and regulatory compliance while working with high-volume clinical datasets. Additionally, my background in logistics and technical support developed strong problem-solving, process optimization, and stakeholder communication skills.
+
+---
+
+## Technical Skills
+
+### Data Analytics & Business Intelligence
+
+* Python
+* SQL
+* Power BI
+* Tableau
+* Advanced Excel
+* DAX
+
+### Data Science & Analytics Libraries
+
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+
+### Software Development
+
+* Java
+* Spring Boot
+* Maven
+* REST APIs
+
+### Data Governance
+
+* Data Quality Assurance
+* Process Auditing
+* SOP Compliance
+* Regulatory Documentation
+
+### Certifications
+
+* Google Data Analytics Professional Certificate (2026)
+
+---
+
+## Featured Projects
+
+### 📉 Telco Customer Churn Analysis & Dashboard
+
+End-to-end analytics project focused on customer retention and revenue-risk analysis.
+
+**Key Achievements**
+
+* Processed and cleaned raw customer data using Python.
+* Built customer tenure cohorts to identify churn patterns.
+* Developed an interactive Power BI dashboard.
+* Identified more than $4M in revenue at risk.
+* Generated actionable recommendations to support retention strategies.
+
+**Tech Stack:** Python, Pandas, NumPy, Power BI, DAX
+
+Repository:
+https://github.com/fran9300/Telco-Customer-Churn-Analysis
+
+Live Dashboard:
+https://fran9300.github.io/Telco-Customer-Churn-Analysis/
+
+---
+
+### ☕ Brewery Management System (In Development)
+
+Backend application designed for inventory management and production workflows using Java and Spring Boot.
+
+**Tech Stack:** Java, Spring Boot, SQL
+
+---
+
+### 🧬 Protein Chain Analysis & Structural Modeling (Upcoming)
+
+Bioinformatics project focused on protein sequence analysis, molecular data processing, and secondary structure prediction using Python.
+
+**Tech Stack:** Python, Bioinformatics, Data Analysis
+
+---
+
+## Professional Background
+
+Experienced in environments where data accuracy, process compliance, and operational efficiency are critical. My professional background spans clinical research operations, logistics, and technical support, providing a multidisciplinary perspective for solving business and analytical challenges.
+
+---
+
+## Open to Opportunities
+
+Interested in Data Analyst, Business Intelligence Analyst, Junior Data Scientist, and Analytics-related opportunities where I can apply data-driven decision-making and continue growing in analytics, software development, and bioinformatics.
+
+#
+
+# Español
+
+## Contacto
+
+* LinkedIn: https://linkedin.com/in/francisco-kin
+* Email: [frankin930@gmail.com](mailto:frankin930@gmail.com)
+* GitHub: https://github.com/fran9300
+* Portfolio: https://fran9300.github.io/Telco-Customer-Churn-Analysis/
+
+---
+
+## Sobre Mí
+
+Analista de Datos y Desarrollador de Software con experiencia en operaciones de datos clínicos, logística y soporte técnico. Actualmente curso la Licenciatura en Bioinformática en UADE, combinando pensamiento analítico, metodología científica y programación para transformar datos complejos en información valiosa para la toma de decisiones y el desarrollo de soluciones tecnológicas escalables.
+
+Mi experiencia en IQVIA Laboratories fortaleció mis conocimientos en integridad de datos, control de calidad y cumplimiento regulatorio trabajando con datasets clínicos de alto volumen. Además, mi trayectoria en logística y soporte técnico desarrolló sólidas capacidades de resolución de problemas, optimización de procesos y comunicación con diferentes áreas de negocio.
+
+---
+
+## Habilidades Técnicas
+
+### Analítica de Datos y Business Intelligence
+
+* Python
+* SQL
+* Power BI
+* Tableau
+* Excel Avanzado
+* DAX
+
+### Ciencia de Datos y Librerías Analíticas
+
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+
+### Desarrollo de Software
+
+* Java
+* Spring Boot
+* Maven
+* APIs REST
+
+### Gobernanza de Datos
+
+* Aseguramiento de Calidad de Datos
+* Auditoría de Procesos
+* Cumplimiento de SOP
+* Documentación Regulatoria
+
+### Certificaciones
+
+* Certificado Profesional de Analítica de Datos de Google (2026)
+
+---
+
+## Proyectos Destacados
+
+### 📉 Análisis de Churn y Dashboard de Retención
+
+Proyecto integral de analítica enfocado en la retención de clientes y la reducción del riesgo financiero.
+
+**Logros Principales**
+
+* Limpieza y transformación de datos utilizando Python.
+* Construcción de cohortes de clientes para detectar patrones de abandono.
+* Desarrollo de un dashboard interactivo en Power BI.
+* Identificación de más de USD 4 millones en riesgo.
+* Generación de recomendaciones para estrategias de retención.
+
+**Tecnologías:** Python, Pandas, NumPy, Power BI, DAX
+
+Repositorio:
+https://github.com/fran9300/Telco-Customer-Churn-Analysis
+
+Proyecto Online:
+https://fran9300.github.io/Telco-Customer-Churn-Analysis/
+
+---
+
+### ☕ Sistema de Gestión para Cervecerías (En Desarrollo)
+
+Aplicación backend diseñada para la gestión de inventario y flujos de producción utilizando Java y Spring Boot.
+
+**Tecnologías:** Java, Spring Boot, SQL
+
+---
+
+### 🧬 Análisis de Proteínas y Modelado Estructural (Próximamente)
+
+Proyecto de bioinformática enfocado en el análisis de secuencias proteicas, procesamiento de datos moleculares y predicción de estructuras secundarias.
+
+**Tecnologías:** Python, Bioinformática, Análisis de Datos
+
+---
+
+## Experiencia Profesional
+
+Experiencia en entornos donde la precisión de los datos, el cumplimiento de procesos y la eficiencia operativa son fundamentales. Mi trayectoria profesional abarca operaciones de investigación clínica, logística y soporte técnico, aportando una visión multidisciplinaria para resolver desafíos analíticos y de negocio.
+
+---
+
+## Intereses Profesionales
+
+Buscando oportunidades como Data Analyst, BI Analyst, Junior Data Scientist o posiciones relacionadas con analítica, donde pueda aplicar herramientas de análisis de datos, visualización y desarrollo para generar impacto en la toma de decisiones.
