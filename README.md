@@ -81,14 +81,6 @@ https://github.com/fran9300/Telco-Customer-Churn-Analysis
 
 ---
 
-### ☕ Brewery Management System (In Development)
-
-Backend application designed for inventory management and production workflows using Java and Spring Boot.
-
-**Tech Stack:** Java, Spring Boot, SQL
-
----
-
 ### 🧬 E1A Protein Analysis & Disorder Prediction
 
 End-to-end bioinformatics workflow for protein sequence analysis and disorder prediction.
@@ -104,6 +96,26 @@ Key Achievements
 **Tech Stack:** Python, BioPython, LocalCIDER, AIUPred, Matplotlib
 
 Repository: https://github.com/fran9300/bioinformatics-e1a-analysis
+
+---
+
+### 🍺 Brewery Management API (In Progress)
+
+REST API developed with Spring Boot for managing beer recipes and brewing ingredients.
+
+Current Achievements
+
+* Implemented a layered architecture based on Controller, Service, and Repository patterns.
+* Developed REST endpoints for ingredient and recipe management.
+* Modeled entity relationships using JPA/Hibernate.
+* Implemented data persistence with Spring Data JPA.
+* Applied dependency injection and backend development best practices.
+
+**Upcoming:** PostgreSQL integration, Swagger/OpenAPI documentation, validation, exception handling, and unit testing.
+
+**Tech Stack:** Java, Spring Boot, Spring Data JPA, Hibernate, Maven, Lombok
+
+**Repository:** https://github.com/fran9300/brewery-management-api
 
 ---
 
@@ -196,14 +208,6 @@ https://github.com/fran9300/Telco-Customer-Churn-Analysis
 
 ---
 
-### ☕ Sistema de Gestión para Cervecerías (En Desarrollo)
-
-Aplicación backend diseñada para la gestión de inventario y flujos de producción utilizando Java y Spring Boot.
-
-**Tecnologías:** Java, Spring Boot, SQL
-
----
-
 ### 🧬 Análisis de Proteínas E1A y Predicción de Desorden
 
 Flujo de trabajo bioinformático integral para el análisis de secuencias proteicas y la caracterización de regiones intrínsecamente desordenadas.
@@ -219,6 +223,26 @@ Logros Principales
 **Tecnologías:** Python, BioPython, LocalCIDER, AIUPred, Matplotlib
 
 **Repositorio:** https://github.com/fran9300/bioinformatics-e1a-analysis
+
+---
+
+### 🍺 API de Gestión de Cervecería (En Desarrollo)
+
+API REST desarrollada con Spring Boot para la gestión de recetas e ingredientes utilizados en la elaboración de cerveza.
+
+Logros Actuales
+
+* Implementé una arquitectura en capas basada en los patrones Controller, Service y Repository.
+* Desarrollé endpoints REST para la gestión de ingredientes y recetas.
+* Modelé relaciones entre entidades utilizando JPA/Hibernate.
+* Implementé persistencia de datos mediante Spring Data JPA.
+* Apliqué inyección de dependencias y buenas prácticas de desarrollo backend.
+
+**Próximamente:** integración con PostgreSQL, documentación con Swagger/OpenAPI, validaciones, manejo de excepciones y pruebas unitarias.
+
+**Tecnologías:** Java, Spring Boot, Spring Data JPA, Hibernate, Maven, Lombok
+
+**Repositorio:** https://github.com/fran9300/brewery-management-api
 
 ---
 
