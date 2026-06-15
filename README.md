@@ -98,26 +98,38 @@ End-to-end bioinformatics workflow for protein sequence analysis and disorder pr
 
 ---
 
-## 🍺 Brewery Management API *(In Progress)*
+## 🍺 Brewery Management API
 
-REST API developed with Spring Boot for managing beer recipes and brewing ingredients.
+RESTful API built with Spring Boot for managing brewery recipes and ingredients.
 
 ### Key Achievements
 
-- Implemented a layered architecture based on Controller, Service, and Repository patterns.
-- Developed REST endpoints for ingredient and recipe management.
-- Modeled entity relationships using JPA/Hibernate.
-- Implemented data persistence with Spring Data JPA.
-- Applied dependency injection and backend development best practices.
+- Designed and implemented a layered architecture using Controller, Service, Repository, and Exception Handling layers.
+- Developed RESTful endpoints for ingredient and recipe management, including entity associations.
+- Modeled and implemented a Many-to-Many relationship between recipes and ingredients using JPA/Hibernate.
+- Implemented global exception handling with custom responses for resource and database integrity errors.
+- Built data persistence using Spring Data JPA and an H2 in-memory database.
+- Documented the API with endpoint references, ER diagrams, and Postman examples.
 
-### Upcoming
+### Features
 
-- PostgreSQL integration.
-- Swagger/OpenAPI documentation.
-- Validation and exception handling.
-- Unit testing.
+- Ingredient CRUD operations (Create, Read, Delete)
+- Recipe CRUD operations (Create, Read, Delete)
+- Recipe–Ingredient association management
+- Global exception handling (404 Not Found, 409 Conflict)
+- Layered Spring Boot architecture
 
-**Tech Stack:** Java, Spring Boot, Spring Data JPA, Hibernate, Maven, Lombok
+### Planned Improvements
+
+- Update endpoints (PUT)
+- PostgreSQL integration
+- Swagger/OpenAPI documentation
+- DTO implementation
+- Request validation
+- Unit testing
+- Docker support
+
+**Tech Stack:** Java, Spring Boot, Spring Data JPA, Hibernate, H2 Database, Maven, Lombok
 
 **Repository:** https://github.com/fran9300/brewery-management-api
 
@@ -128,10 +140,6 @@ REST API developed with Spring Boot for managing beer recipes and brewing ingred
 Experienced in environments where data accuracy, process compliance, and operational efficiency are critical. My professional background spans clinical research operations, logistics, and technical support, providing a multidisciplinary perspective for solving business and analytical challenges.
 
 ---
-
-## Open to Opportunities
-
-Interested in Data Analyst, Business Intelligence Analyst, Junior Data Scientist, and Analytics-related opportunities where I can apply data-driven decision-making and continue growing in analytics, software development, and bioinformatics.
 
 #
 
@@ -229,26 +237,38 @@ Flujo de trabajo bioinformático integral para el análisis de secuencias protei
 
 ---
 
-## 🍺 API de Gestión de Cervecería *(En Desarrollo)*
+## 🍺 API de Gestión de Cervecería
 
 API REST desarrollada con Spring Boot para la gestión de recetas e ingredientes utilizados en la elaboración de cerveza.
 
 ### Logros Principales
 
-- Implementé una arquitectura en capas basada en los patrones Controller, Service y Repository.
-- Desarrollé endpoints REST para la gestión de ingredientes y recetas.
-- Modelé relaciones entre entidades utilizando JPA/Hibernate.
-- Implementé persistencia de datos mediante Spring Data JPA.
-- Apliqué inyección de dependencias y buenas prácticas de desarrollo backend.
+- Diseñé e implementé una arquitectura en capas utilizando Controller, Service, Repository y manejo global de excepciones.
+- Desarrollé endpoints REST para la gestión de ingredientes y recetas, incluyendo asociaciones entre entidades.
+- Modelé e implementé una relación Many-to-Many entre recetas e ingredientes utilizando JPA/Hibernate.
+- Implementé manejo global de excepciones con respuestas personalizadas para recursos inexistentes y errores de integridad de datos.
+- Implementé persistencia de datos mediante Spring Data JPA y una base de datos H2 en memoria.
+- Documenté la API mediante referencias de endpoints, diagramas entidad-relación y ejemplos de Postman.
 
-### Próximamente
+### Funcionalidades
 
-- Integración con PostgreSQL.
-- Documentación con Swagger/OpenAPI.
-- Validaciones y manejo de excepciones.
-- Pruebas unitarias.
+- Operaciones CRUD de ingredientes (Crear, Consultar y Eliminar)
+- Operaciones CRUD de recetas (Crear, Consultar y Eliminar)
+- Gestión de asociaciones entre recetas e ingredientes
+- Manejo global de excepciones (404 Not Found, 409 Conflict)
+- Arquitectura backend en capas con Spring Boot
 
-**Tecnologías:** Java, Spring Boot, Spring Data JPA, Hibernate, Maven, Lombok
+### Mejoras Futuras
+
+- Endpoints de actualización (PUT)
+- Integración con PostgreSQL
+- Documentación con Swagger/OpenAPI
+- Implementación de DTOs
+- Validación de solicitudes
+- Pruebas unitarias
+- Soporte para Docker
+
+**Tecnologías:** Java, Spring Boot, Spring Data JPA, Hibernate, H2 Database, Maven, Lombok
 
 **Repositorio:** https://github.com/fran9300/brewery-management-api
 
@@ -257,9 +277,3 @@ API REST desarrollada con Spring Boot para la gestión de recetas e ingredientes
 ## Experiencia Profesional
 
 Experiencia en entornos donde la precisión de los datos, el cumplimiento de procesos y la eficiencia operativa son fundamentales. Mi trayectoria profesional abarca operaciones de investigación clínica, logística y soporte técnico, aportando una visión multidisciplinaria para resolver desafíos analíticos y de negocio.
-
----
-
-## Intereses Profesionales
-
-Buscando oportunidades como Data Analyst, BI Analyst, Junior Data Scientist o posiciones relacionadas con analítica, donde pueda aplicar herramientas de análisis de datos, visualización y desarrollo para generar impacto en la toma de decisiones.
