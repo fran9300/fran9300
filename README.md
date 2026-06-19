@@ -113,23 +113,21 @@ RESTful API built with Spring Boot for managing brewery recipes and ingredients.
 
 ### Features
 
-- Ingredient CRUD operations (Create, Read, Delete)
-- Recipe CRUD operations (Create, Read, Delete)
+- Ingredient CRUD operations (Create, Read, Update, Delete)
+- Recipe CRUD operations (Create, Read, Update, Delete)
 - Recipe–Ingredient association management
 - Global exception handling (404 Not Found, 409 Conflict)
 - Layered Spring Boot architecture
+- PostgreSQL relational database
 
 ### Planned Improvements
 
-- Update endpoints (PUT)
-- PostgreSQL integration
 - Swagger/OpenAPI documentation
 - DTO implementation
-- Request validation
 - Unit testing
 - Docker support
 
-**Tech Stack:** Java, Spring Boot, Spring Data JPA, Hibernate, H2 Database, Maven, Lombok
+**Tech Stack:** Java, Spring Boot, Spring Data JPA, Hibernate, PostgreSQL Database, Maven, Lombok
 
 **Repository:** https://github.com/fran9300/brewery-management-api
 
@@ -252,23 +250,21 @@ API REST desarrollada con Spring Boot para la gestión de recetas e ingredientes
 
 ### Funcionalidades
 
-- Operaciones CRUD de ingredientes (Crear, Consultar y Eliminar)
-- Operaciones CRUD de recetas (Crear, Consultar y Eliminar)
+- Operaciones CRUD de ingredientes (Crear, Consultar, Actualizar y Eliminar)
+- Operaciones CRUD de recetas (Crear, Consultar, Actualizar y Eliminar)
 - Gestión de asociaciones entre recetas e ingredientes
 - Manejo global de excepciones (404 Not Found, 409 Conflict)
 - Arquitectura backend en capas con Spring Boot
+- PostgreSQL Base de datos relacional
 
 ### Mejoras Futuras
 
-- Endpoints de actualización (PUT)
-- Integración con PostgreSQL
 - Documentación con Swagger/OpenAPI
 - Implementación de DTOs
-- Validación de solicitudes
 - Pruebas unitarias
 - Soporte para Docker
 
-**Tecnologías:** Java, Spring Boot, Spring Data JPA, Hibernate, H2 Database, Maven, Lombok
+**Tecnologías:** Java, Spring Boot, Spring Data JPA, Hibernate, PostgreSQL Database, Maven, Lombok
 
 **Repositorio:** https://github.com/fran9300/brewery-management-api
 
