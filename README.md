@@ -1,4 +1,4 @@
-# Francisco Kin | Data Analyst | Bioinformatics Student
+# Francisco Kin | Bioinformatics Student | Data Analyst & Backend Developer
 
 [🇬🇧 English](#english) | [🇪🇸 Español](#español)
 
@@ -16,21 +16,28 @@
 
 ## About Me
 
-Data Analyst and Bioinformatics student with experience in clinical data management, data quality assurance, and data-driven decision support.
+Bioinformatics student with experience in data analysis, clinical data management, and software development.
 
-Skilled in Python, SQL, Power BI, and machine learning, with a strong interest in applying analytical solutions to healthcare, life sciences, and business intelligence.
+Focused on building data-driven and backend solutions using Python, SQL, Java, and Spring Boot, with an interest in applying technology to healthcare, life sciences, and data-driven environments.
 
 ---
 
 ## Technical Skills
 
+### Programming & Software Development
+
+* Java
+* Python
+* Spring Boot
+* REST APIs
+* Maven
+
 ### Data Analytics & Business Intelligence
 
-* Python
 * SQL
 * Power BI
 * Tableau
-* Advanced Excel
+* Excel
 * DAX
 
 ### Data Science & Analytics Libraries
@@ -38,14 +45,7 @@ Skilled in Python, SQL, Power BI, and machine learning, with a strong interest i
 * Pandas
 * NumPy
 * Matplotlib
-* Seaborn
-
-### Software Development
-
-* Java
-* Spring Boot
-* Maven
-* REST APIs
+* Biopython
 
 ### Data Governance
 
@@ -57,10 +57,13 @@ Skilled in Python, SQL, Power BI, and machine learning, with a strong interest i
 ### Certifications
 
 * Google Data Analytics Professional Certificate (2026)
+* Oracle Next Education (ONE) Program (2023)
 
 ---
 
 ## Featured Projects
+
+A selection of projects covering data analytics, bioinformatics, and backend development.
 
 ## 📉 Telco Customer Churn Analysis & Dashboard
 
@@ -71,7 +74,7 @@ End-to-end analytics project focused on customer retention and revenue-risk anal
 - Processed and cleaned raw customer data using Python.
 - Built customer tenure cohorts to identify churn patterns.
 - Developed an interactive Power BI dashboard.
-- Identified more than $4M in revenue at risk.
+- Estimated more than $4M in potential revenue at risk based on churn analysis.
 - Generated actionable recommendations to support retention strategies.
 
 **Tech Stack:** Python, Pandas, NumPy, Power BI, DAX
@@ -89,7 +92,7 @@ End-to-end bioinformatics workflow for protein sequence analysis and disorder pr
 - Processed and analyzed multiple sequence alignments (MSA).
 - Computed sequence identity and amino acid frequency statistics.
 - Estimated hydrodynamic radius and charge-related properties.
-- Integrated AIUPred predictions into aligned protein sequences.
+- Integrated AIUPred disorder predictions into protein sequence analysis workflows.
 - Produced reproducible analyses and visualizations in Python.
 
 **Tech Stack:** Python, BioPython, LocalCIDER, AIUPred, Matplotlib
@@ -108,7 +111,8 @@ RESTful API built with Spring Boot for managing brewery recipes and ingredients.
 - Developed RESTful endpoints for ingredient and recipe management, including entity associations.
 - Modeled and implemented a Many-to-Many relationship between recipes and ingredients using JPA/Hibernate.
 - Implemented global exception handling with custom responses for resource and database integrity errors.
-- Built data persistence using Spring Data JPA and an H2 in-memory database.
+- Implemented data persistence using Spring Data JPA.
+- Developed the application using PostgreSQL as the relational database.
 - Documented the API with endpoint references, ER diagrams, and Postman examples.
 
 ### Features
@@ -133,9 +137,56 @@ RESTful API built with Spring Boot for managing brewery recipes and ingredients.
 
 ---
 
+## 🎬 Cinema Management System
+
+Academic project focused on developing a cinema ticket reservation system, applying object-oriented programming concepts and software design principles.
+
+### Key Achievements
+
+- Designed a complete reservation workflow for movies, schedules, rooms, and seats.
+- Implemented user registration and validation logic.
+- Developed business rules for seat availability, age restrictions, and ticket purchasing.
+- Structured the application using modular components to improve maintainability.
+- Applied object-oriented programming concepts for system modeling and management.
+
+### Features
+
+- Movie and schedule management
+- Cinema room configuration
+- User registration and validation
+- Seat availability management
+- Ticket reservation process
+- Billing information handling
+- Discount application logic
+
+**Tech Stack:** Python, Object-Oriented Programming, Data Structures
+
+**Repository:** https://github.com/fran9300/cinema-management-system
+
+---
+
+## Other Projects
+
+## 🧮 Java Calculator MVC
+
+Desktop calculator application developed in Java implementing the Model-View-Controller (MVC) architectural pattern.
+
+### Key Achievements
+
+- Separated application logic, user interface, and event handling using MVC principles.
+- Implemented arithmetic operations and input validation.
+- Developed an interactive graphical interface using Java Swing.
+- Applied clean code practices and object-oriented programming concepts.
+
+**Tech Stack:** Java, Java Swing, MVC Pattern
+
+**Repository:** https://github.com/fran9300/java-calculator-mvc
+
+---
+
 ## Professional Background
 
-Experienced in environments where data accuracy, process compliance, and operational efficiency are critical. My professional background spans clinical research operations, logistics, and technical support, providing a multidisciplinary perspective for solving business and analytical challenges.
+Experienced in environments where data accuracy, process compliance, and operational efficiency are critical. My professional background includes clinical research operations, logistics, and technical support, providing a multidisciplinary perspective for solving analytical and software development challenges.
 
 ---
 
@@ -153,36 +204,36 @@ Experienced in environments where data accuracy, process compliance, and operati
 
 ## Sobre Mí
 
-Analista de Datos y estudiante de Bioinformática con experiencia en gestión de datos clínicos, control de calidad y análisis de datos para la toma de decisiones.
+Estudiante de Bioinformática con experiencia en análisis de datos, gestión de datos clínicos y desarrollo de software.
 
-Especializado en Python, SQL, Power BI y aprendizaje automático, con interés en aplicar soluciones basadas en datos en los ámbitos de la salud, las ciencias de la vida y la inteligencia de negocios.
+Enfocado en la construcción de soluciones basadas en datos y desarrollo backend utilizando Python, SQL, Java y Spring Boot, con interés en aplicar tecnología en los ámbitos de la salud, ciencias de la vida y entornos orientados a datos.
 
 ---
 
 ## Habilidades Técnicas
 
-### Analítica de Datos y Business Intelligence
+### Programación y Desarrollo de Software
 
+* Java
 * Python
+* Spring Boot
+* APIs REST
+* Maven
+
+### Análisis de Datos e Inteligencia de Negocios
+
 * SQL
 * Power BI
 * Tableau
-* Excel Avanzado
+* Excel
 * DAX
 
-### Ciencia de Datos y Librerías Analíticas
+### Ciencia de Datos y Librerías de Análisis
 
 * Pandas
 * NumPy
 * Matplotlib
-* Seaborn
-
-### Desarrollo de Software
-
-* Java
-* Spring Boot
-* Maven
-* APIs REST
+* BioPython
 
 ### Gobernanza de Datos
 
@@ -193,23 +244,26 @@ Especializado en Python, SQL, Power BI y aprendizaje automático, con interés e
 
 ### Certificaciones
 
-* Certificado Profesional de Analítica de Datos de Google (2026)
+* Google Data Analytics Professional Certificate (2026)
+* Programa Oracle Next Education (ONE) (2023)
 
 ---
 
-## Proyectos Destacados
+# Proyectos Destacados
 
-## 📉 Análisis de Churn y Dashboard de Retención
+Una selección de proyectos que combinan análisis de datos, bioinformática y desarrollo de soluciones backend.
 
-Proyecto integral de analítica enfocado en la retención de clientes y la reducción del riesgo financiero.
+## 📉 Análisis de Churn de Clientes y Dashboard
+
+Proyecto integral de análisis de datos enfocado en la retención de clientes y la identificación de riesgo de pérdida de ingresos.
 
 ### Logros Principales
 
-- Procesé y depuré datos de clientes utilizando Python.
-- Construí cohortes de clientes para identificar patrones de abandono.
+- Procesé y limpié datos de clientes utilizando Python.
+- Construí cohortes de permanencia para identificar patrones de abandono.
 - Desarrollé un dashboard interactivo en Power BI.
-- Identifiqué más de USD 4 millones en riesgo.
-- Generé recomendaciones accionables para estrategias de retención.
+- Estimé más de USD 4 millones en ingresos potencialmente en riesgo mediante análisis de churn.
+- Generé recomendaciones accionables para apoyar estrategias de retención.
 
 **Tecnologías:** Python, Pandas, NumPy, Power BI, DAX
 
@@ -219,14 +273,14 @@ Proyecto integral de analítica enfocado en la retención de clientes y la reduc
 
 ## 🧬 Análisis de Proteínas E1A y Predicción de Desorden
 
-Flujo de trabajo bioinformático integral para el análisis de secuencias proteicas y la caracterización de regiones intrínsecamente desordenadas.
+Flujo de trabajo bioinformático integral para el análisis de secuencias proteicas y predicción de regiones intrínsecamente desordenadas.
 
 ### Logros Principales
 
 - Procesé y analicé alineamientos múltiples de secuencias (MSA).
 - Calculé identidad de secuencia y estadísticas de frecuencia de aminoácidos.
-- Estimé el radio hidrodinámico y propiedades relacionadas con la distribución de cargas.
-- Integré predicciones de AIUPred en secuencias proteicas alineadas.
+- Estimé radio hidrodinámico y propiedades relacionadas con la distribución de cargas.
+- Integré predicciones de desorden mediante AIUPred en flujos de análisis de secuencias proteicas.
 - Generé análisis reproducibles y visualizaciones utilizando Python.
 
 **Tecnologías:** Python, BioPython, LocalCIDER, AIUPred, Matplotlib
@@ -237,7 +291,7 @@ Flujo de trabajo bioinformático integral para el análisis de secuencias protei
 
 ## 🍺 API de Gestión de Cervecería
 
-API REST desarrollada con Spring Boot para la gestión de recetas e ingredientes utilizados en la elaboración de cerveza.
+API REST desarrollada con Spring Boot para la gestión de recetas e ingredientes utilizados en elaboración de cerveza.
 
 ### Logros Principales
 
@@ -245,17 +299,18 @@ API REST desarrollada con Spring Boot para la gestión de recetas e ingredientes
 - Desarrollé endpoints REST para la gestión de ingredientes y recetas, incluyendo asociaciones entre entidades.
 - Modelé e implementé una relación Many-to-Many entre recetas e ingredientes utilizando JPA/Hibernate.
 - Implementé manejo global de excepciones con respuestas personalizadas para recursos inexistentes y errores de integridad de datos.
-- Implementé persistencia de datos mediante Spring Data JPA y una base de datos H2 en memoria.
+- Implementé persistencia de datos utilizando Spring Data JPA.
+- Desarrollé la aplicación utilizando PostgreSQL como base de datos relacional.
 - Documenté la API mediante referencias de endpoints, diagramas entidad-relación y ejemplos de Postman.
 
 ### Funcionalidades
 
-- Operaciones CRUD de ingredientes (Crear, Consultar, Actualizar y Eliminar)
-- Operaciones CRUD de recetas (Crear, Consultar, Actualizar y Eliminar)
+- Operaciones CRUD de ingredientes (Crear, Consultar, Actualizar, Eliminar)
+- Operaciones CRUD de recetas (Crear, Consultar, Actualizar, Eliminar)
 - Gestión de asociaciones entre recetas e ingredientes
 - Manejo global de excepciones (404 Not Found, 409 Conflict)
 - Arquitectura backend en capas con Spring Boot
-- PostgreSQL Base de datos relacional
+- Base de datos relacional PostgreSQL
 
 ### Mejoras Futuras
 
@@ -264,12 +319,59 @@ API REST desarrollada con Spring Boot para la gestión de recetas e ingredientes
 - Pruebas unitarias
 - Soporte para Docker
 
-**Tecnologías:** Java, Spring Boot, Spring Data JPA, Hibernate, PostgreSQL Database, Maven, Lombok
+**Tecnologías:** Java, Spring Boot, Spring Data JPA, Hibernate, PostgreSQL, Maven, Lombok
 
 **Repositorio:** https://github.com/fran9300/brewery-management-api
 
 ---
 
+## 🎬 Sistema de Gestión de Cine
+
+Proyecto académico enfocado en el desarrollo de un sistema de reservas de entradas de cine, aplicando conceptos de programación orientada a objetos y principios de diseño de software.
+
+### Logros Principales
+
+- Diseñé un flujo completo de reservas para películas, horarios, salas y butacas.
+- Implementé lógica de registro y validación de usuarios.
+- Desarrollé reglas de negocio para disponibilidad de asientos, restricciones de edad y compra de entradas.
+- Estructuré la aplicación utilizando componentes modulares para mejorar su mantenimiento.
+- Apliqué conceptos de programación orientada a objetos para el modelado y gestión del sistema.
+
+### Funcionalidades
+
+- Gestión de películas y horarios
+- Configuración de salas de cine
+- Registro y validación de usuarios
+- Gestión de disponibilidad de butacas
+- Proceso de reserva de entradas
+- Manejo de información de facturación
+- Aplicación de descuentos
+
+**Tecnologías:** Python, Programación Orientada a Objetos, Estructuras de Datos
+
+**Repositorio:** https://github.com/fran9300/cinema-management-system
+
+---
+
+# Otros Proyectos
+
+## 🧮 Calculadora Java MVC
+
+Aplicación de escritorio desarrollada en Java implementando el patrón arquitectónico Modelo-Vista-Controlador (MVC).
+
+### Logros Principales
+
+- Separé la lógica de negocio, interfaz de usuario y manejo de eventos utilizando principios MVC.
+- Implementé operaciones matemáticas y validación de entradas.
+- Desarrollé una interfaz gráfica interactiva utilizando Java Swing.
+- Apliqué buenas prácticas de código limpio y conceptos de programación orientada a objetos.
+
+**Tecnologías:** Java, Java Swing, Patrón MVC
+
+**Repositorio:** https://github.com/fran9300/java-calculator-mvc
+
+---
+
 ## Experiencia Profesional
 
-Experiencia en entornos donde la precisión de los datos, el cumplimiento de procesos y la eficiencia operativa son fundamentales. Mi trayectoria profesional abarca operaciones de investigación clínica, logística y soporte técnico, aportando una visión multidisciplinaria para resolver desafíos analíticos y de negocio.
+Experiencia en entornos donde la precisión de los datos, el cumplimiento de procesos y la eficiencia operativa son fundamentales. Mi trayectoria profesional incluye operaciones de investigación clínica, logística y soporte técnico, aportando una perspectiva multidisciplinaria para resolver desafíos relacionados con análisis de datos y desarrollo de software.
