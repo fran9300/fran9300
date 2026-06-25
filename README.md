@@ -143,9 +143,10 @@ RESTful API built with Spring Boot for managing brewery recipes and ingredients.
 - DTO-based request/response handling.
 - Global exception handling.
 - PostgreSQL database with Docker environment.
+- Added Flyway database migrations for version-controlled schema management.
 
 
-**Tech Stack:** Java, Spring Boot, Spring Data JPA, Hibernate, PostgreSQL Database, Docker, Docker Compose, Maven, Lombok
+**Tech Stack:** Java, Spring Boot, Spring Data JPA, Hibernate, PostgreSQL Database, Docker, Docker Compose, Flyway, Maven, Lombok
 
 **Repository:** https://github.com/fran9300/brewery-management-api
 
@@ -345,9 +346,10 @@ API REST desarrollada con Spring Boot para la gestión de recetas e ingredientes
 - Manejo de requests y responses mediante DTOs.
 - Manejo global de excepciones con respuestas estandarizadas.
 - Base de datos PostgreSQL con entorno contenerizado utilizando Docker.
+- Migraciones de base de datos con Flyway para gestionar el esquema de forma versionada.
 
 
-**Tecnologías:** Java, Spring Boot, Spring Data JPA, Hibernate, PostgreSQL, Docker, Docker Compose, Maven, Lombok
+**Tecnologías:** Java, Spring Boot, Spring Data JPA, Hibernate, PostgreSQL, Docker, Docker Compose, Flyway, Maven, Lombok
 
 **Repositorio:** https://github.com/fran9300/brewery-management-api
 
