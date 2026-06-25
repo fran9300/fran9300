@@ -1,5 +1,6 @@
 # Francisco Kin | Bioinformatics Student | Data Analytics & Backend Development
 
+
 [🇬🇧 English](#english) | [🇪🇸 Español](#español)
 
 ---
@@ -82,6 +83,10 @@ A selection of projects covering data analytics, bioinformatics, and backend dev
 
 ## 📉 Telco Customer Churn Analysis & Dashboard
 
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+
 End-to-end analytics project focused on customer retention and revenue-risk analysis.
 
 ### Key Achievements
@@ -99,6 +104,11 @@ End-to-end analytics project focused on customer retention and revenue-risk anal
 ---
 
 ## 🧬 E1A Protein Analysis & Disorder Prediction
+
+![Python](https://img.shields.io/badge/Python-Bioinformatics-blue)
+![Biopython](https://img.shields.io/badge/Biopython-Bioinformatics-green)
+![AIUPred](https://img.shields.io/badge/AIUPred-Protein%20Disorder-purple)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
 End-to-end bioinformatics workflow for protein sequence analysis and disorder prediction.
 
@@ -118,41 +128,22 @@ End-to-end bioinformatics workflow for protein sequence analysis and disorder pr
 
 ## 🍺 Brewery Management API
 
+![Java](https://img.shields.io/badge/Java-21-orange)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4-green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue)
+![Docker](https://img.shields.io/badge/Docker-Supported-blue)
+![Maven](https://img.shields.io/badge/Maven-Build-red)
+
 RESTful API built with Spring Boot for managing brewery recipes and ingredients.
 
 ### Key Achievements
 
-- Designed and implemented a layered architecture using Controller, Service, Repository, and Exception Handling layers.
-- Developed RESTful endpoints for ingredient and recipe management, including entity associations.
-- Modeled and implemented a Many-to-Many relationship between recipes and ingredients using JPA/Hibernate.
-- Implemented global exception handling with standardized error responses using custom exception classes.
-- Implemented DTO-based request and response handling to separate API contracts from persistence entities.
-- Implemented data persistence using Spring Data JPA and Hibernate ORM.
-- Developed the application using PostgreSQL as the relational database.
-- Containerized the database environment using Docker and Docker Compose.
-- Configured environment-based database properties for local development.
-- Documented the API with endpoint references, ER diagrams, and Postman examples.
+- Layered architecture with Controller, Service and Repository pattern.
+- JPA/Hibernate entity relationships.
+- DTO-based request/response handling.
+- Global exception handling.
+- PostgreSQL database with Docker environment.
 
-### Features
-
-- Ingredient CRUD operations (Create, Read, Update, Delete)
-- Recipe CRUD operations (Create, Read, Update, Delete)
-- Recipe–Ingredient association management
-- Global exception handling with standardized API error responses
-- Layered Spring Boot architecture
-- PostgreSQL relational database
-- Dockerized PostgreSQL environment
-- Environment-based configuration management
-- Database integrity validation
-- DTO request/response pattern
-- Environment variable configuration
-
-### Planned Improvements
-
-- Unit testing
-- Authentication and authorization
-- CI/CD pipeline with GitHub Actions
-- SonarQube code quality analysis
 
 **Tech Stack:** Java, Spring Boot, Spring Data JPA, Hibernate, PostgreSQL Database, Docker, Docker Compose, Maven, Lombok
 
@@ -161,6 +152,10 @@ RESTful API built with Spring Boot for managing brewery recipes and ingredients.
 ---
 
 ## 🎬 Cinema Management System
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![OOP](https://img.shields.io/badge/OOP-Design-green)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-Algorithms-purple)
 
 Academic project focused on developing a cinema ticket reservation system, applying object-oriented programming concepts and software design principles.
 
@@ -172,15 +167,6 @@ Academic project focused on developing a cinema ticket reservation system, apply
 - Structured the application using modular components to improve maintainability.
 - Applied object-oriented programming concepts for system modeling and management.
 
-### Features
-
-- Movie and schedule management
-- Cinema room configuration
-- User registration and validation
-- Seat availability management
-- Ticket reservation process
-- Billing information handling
-- Discount application logic
 
 **Tech Stack:** Python, Object-Oriented Programming, Data Structures
 
@@ -191,6 +177,10 @@ Academic project focused on developing a cinema ticket reservation system, apply
 ## Other Projects
 
 ## 🧮 Java Calculator MVC
+
+![Java](https://img.shields.io/badge/Java-17-orange)
+![Swing](https://img.shields.io/badge/Java%20Swing-GUI-blue)
+![MVC](https://img.shields.io/badge/MVC-Pattern-green)
 
 Desktop calculator application developed in Java implementing the Model-View-Controller (MVC) architectural pattern.
 
@@ -295,6 +285,10 @@ Una selección de proyectos que combinan análisis de datos, bioinformática y d
 
 ## 📉 Análisis de Churn de Clientes Telco y Dashboard
 
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+
 Proyecto integral de análisis de datos enfocado en la retención de clientes y análisis de riesgo de pérdida de ingresos.
 
 ### Logros Principales
@@ -312,6 +306,11 @@ Proyecto integral de análisis de datos enfocado en la retención de clientes y 
 ---
 
 ## 🧬 Análisis de Proteína E1A y Predicción de Desorden
+
+![Python](https://img.shields.io/badge/Python-Bioinformatics-blue)
+![Biopython](https://img.shields.io/badge/Biopython-Bioinformatics-green)
+![AIUPred](https://img.shields.io/badge/AIUPred-Protein%20Disorder-purple)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
 Flujo de trabajo bioinformático integral para el análisis de secuencias proteicas y predicción de desorden.
 
@@ -331,41 +330,22 @@ Flujo de trabajo bioinformático integral para el análisis de secuencias protei
 
 ## 🍺 API de Gestión de Cervecería
 
+![Java](https://img.shields.io/badge/Java-21-orange)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4-green)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue)
+![Docker](https://img.shields.io/badge/Docker-Supported-blue)
+![Maven](https://img.shields.io/badge/Maven-Build-red)
+
 API REST desarrollada con Spring Boot para la gestión de recetas e ingredientes.
 
 ### Logros Principales
 
-- Diseñé e implementé una arquitectura en capas utilizando Controller, Service, Repository y manejo de excepciones.
-- Desarrollé endpoints REST para la gestión de ingredientes y recetas, incluyendo asociaciones entre entidades.
-- Modelé e implementé una relación Many-to-Many entre recetas e ingredientes utilizando JPA/Hibernate.
-- Implementé manejo global de excepciones con respuestas de error estandarizadas mediante clases de excepción personalizadas.
-- Implementé manejo de requests y responses mediante DTOs para separar contratos de API de entidades de persistencia.
-- Implementé persistencia de datos utilizando Spring Data JPA e Hibernate ORM.
-- Desarrollé la aplicación utilizando PostgreSQL como base de datos relacional.
-- Contenericé el entorno de base de datos utilizando Docker y Docker Compose.
-- Configuré propiedades de base de datos mediante variables de entorno para desarrollo local.
-- Documenté la API mediante referencias de endpoints, diagramas entidad-relación y ejemplos de Postman.
+- Arquitectura en capas utilizando el patrón Controller, Service y Repository.
+- Relaciones entre entidades implementadas con JPA/Hibernate.
+- Manejo de requests y responses mediante DTOs.
+- Manejo global de excepciones con respuestas estandarizadas.
+- Base de datos PostgreSQL con entorno contenerizado utilizando Docker.
 
-### Funcionalidades
-
-- Operaciones CRUD de ingredientes (Crear, Consultar, Actualizar, Eliminar)
-- Operaciones CRUD de recetas (Crear, Consultar, Actualizar, Eliminar)
-- Gestión de asociaciones entre recetas e ingredientes
-- Manejo global de excepciones con respuestas de error estandarizadas
-- Arquitectura backend en capas con Spring Boot
-- Base de datos relacional PostgreSQL
-- Entorno PostgreSQL con Docker
-- Gestión de configuración basada en entorno
-- Validación de integridad de datos
-- Patrón DTO para requests/responses
-- Configuración mediante variables de entorno
-
-### Mejoras Futuras
-
-- Pruebas unitarias
-- Autenticación y autorización
-- Pipeline CI/CD con GitHub Actions
-- Análisis de calidad de código con SonarQube
 
 **Tecnologías:** Java, Spring Boot, Spring Data JPA, Hibernate, PostgreSQL, Docker, Docker Compose, Maven, Lombok
 
@@ -374,6 +354,10 @@ API REST desarrollada con Spring Boot para la gestión de recetas e ingredientes
 ---
 
 ## 🎬 Sistema de Gestión de Cine
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![OOP](https://img.shields.io/badge/OOP-Design-green)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-Algorithms-purple)
 
 Proyecto académico enfocado en el desarrollo de un sistema de reservas de entradas de cine aplicando conceptos de programación orientada a objetos y principios de diseño de software.
 
@@ -404,6 +388,10 @@ Proyecto académico enfocado en el desarrollo de un sistema de reservas de entra
 ## Otros Proyectos
 
 ## 🧮 Calculadora Java MVC
+
+![Java](https://img.shields.io/badge/Java-17-orange)
+![Swing](https://img.shields.io/badge/Java%20Swing-GUI-blue)
+![MVC](https://img.shields.io/badge/MVC-Pattern-green)
 
 Aplicación de escritorio desarrollada en Java implementando el patrón arquitectónico Modelo-Vista-Controlador (MVC).
 
