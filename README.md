@@ -1,4 +1,4 @@
-# Francisco Kin | Bioinformatics Student | Data Analyst & Backend Developer
+# Francisco Kin | Bioinformatics Student | Data Analytics & Backend Development
 
 [🇬🇧 English](#english) | [🇪🇸 Español](#español)
 
@@ -18,7 +18,9 @@
 
 Bioinformatics student with experience in data analysis, clinical data management, and software development.
 
-Focused on building data-driven and backend solutions using Python, SQL, Java, and Spring Boot, with an interest in applying technology to healthcare, life sciences, and data-driven environments.
+Interested in building data-driven solutions that combine programming, databases, and biological knowledge. Currently developing skills in backend development with Java and Spring Boot, while applying Python and data analysis tools to scientific and business problems.
+
+Focused on healthcare, life sciences, and data-driven environments.
 
 ---
 
@@ -31,6 +33,9 @@ Focused on building data-driven and backend solutions using Python, SQL, Java, a
 * Spring Boot
 * REST APIs
 * Maven
+* PostgreSQL
+* Docker
+* Git & GitHub
 
 ### Data Analytics & Business Intelligence
 
@@ -58,6 +63,16 @@ Focused on building data-driven and backend solutions using Python, SQL, Java, a
 
 * Google Data Analytics Professional Certificate (2026)
 * Oracle Next Education (ONE) Program (2023)
+
+---
+
+## Currently Learning
+
+* Advanced Spring Boot development
+* Software architecture patterns
+* Database optimization
+* Backend testing practices
+* Bioinformatics data analysis workflows
 
 ---
 
@@ -92,7 +107,7 @@ End-to-end bioinformatics workflow for protein sequence analysis and disorder pr
 - Processed and analyzed multiple sequence alignments (MSA).
 - Computed sequence identity and amino acid frequency statistics.
 - Estimated hydrodynamic radius and charge-related properties.
-- Integrated AIUPred disorder predictions into protein sequence analysis workflows.
+- Integrated AIUPred-based intrinsic disorder predictions into protein sequence analysis workflows.
 - Produced reproducible analyses and visualizations in Python.
 
 **Tech Stack:** Python, BioPython, LocalCIDER, AIUPred, Matplotlib
@@ -110,9 +125,12 @@ RESTful API built with Spring Boot for managing brewery recipes and ingredients.
 - Designed and implemented a layered architecture using Controller, Service, Repository, and Exception Handling layers.
 - Developed RESTful endpoints for ingredient and recipe management, including entity associations.
 - Modeled and implemented a Many-to-Many relationship between recipes and ingredients using JPA/Hibernate.
-- Implemented global exception handling with custom responses for resource and database integrity errors.
-- Implemented data persistence using Spring Data JPA.
+- Implemented global exception handling with standardized error responses using custom exception classes.
+- Implemented DTO-based request and response handling to separate API contracts from persistence entities.
+- Implemented data persistence using Spring Data JPA and Hibernate ORM.
 - Developed the application using PostgreSQL as the relational database.
+- Containerized the database environment using Docker and Docker Compose.
+- Configured environment-based database properties for local development.
 - Documented the API with endpoint references, ER diagrams, and Postman examples.
 
 ### Features
@@ -120,18 +138,23 @@ RESTful API built with Spring Boot for managing brewery recipes and ingredients.
 - Ingredient CRUD operations (Create, Read, Update, Delete)
 - Recipe CRUD operations (Create, Read, Update, Delete)
 - Recipe–Ingredient association management
-- Global exception handling (404 Not Found, 409 Conflict)
+- Global exception handling with standardized API error responses
 - Layered Spring Boot architecture
 - PostgreSQL relational database
+- Dockerized PostgreSQL environment
+- Environment-based configuration management
+- Database integrity validation
+- DTO request/response pattern
+- Environment variable configuration
 
 ### Planned Improvements
 
-- Swagger/OpenAPI documentation
-- DTO implementation
 - Unit testing
-- Docker support
+- Authentication and authorization
+- CI/CD pipeline with GitHub Actions
+- SonarQube code quality analysis
 
-**Tech Stack:** Java, Spring Boot, Spring Data JPA, Hibernate, PostgreSQL Database, Maven, Lombok
+**Tech Stack:** Java, Spring Boot, Spring Data JPA, Hibernate, PostgreSQL Database, Docker, Docker Compose, Maven, Lombok
 
 **Repository:** https://github.com/fran9300/brewery-management-api
 
@@ -192,6 +215,8 @@ Experienced in environments where data accuracy, process compliance, and operati
 
 #
 
+# Francisco Kin | Estudiante de Bioinformática | Análisis de Datos y Desarrollo Backend
+
 # Español
 
 ## Contacto
@@ -202,11 +227,13 @@ Experienced in environments where data accuracy, process compliance, and operati
 
 ---
 
-## Sobre Mí
+## Sobre mí
 
 Estudiante de Bioinformática con experiencia en análisis de datos, gestión de datos clínicos y desarrollo de software.
 
-Enfocado en la construcción de soluciones basadas en datos y desarrollo backend utilizando Python, SQL, Java y Spring Boot, con interés en aplicar tecnología en los ámbitos de la salud, ciencias de la vida y entornos orientados a datos.
+Interesado en construir soluciones basadas en datos que combinen programación, bases de datos y conocimiento biológico. Actualmente desarrollando habilidades en desarrollo backend con Java y Spring Boot, mientras aplico Python y herramientas de análisis de datos a problemas científicos y empresariales.
+
+Enfocado en salud, ciencias de la vida y entornos orientados a datos.
 
 ---
 
@@ -219,6 +246,9 @@ Enfocado en la construcción de soluciones basadas en datos y desarrollo backend
 * Spring Boot
 * APIs REST
 * Maven
+* PostgreSQL
+* Docker
+* Git y GitHub
 
 ### Análisis de Datos e Inteligencia de Negocios
 
@@ -233,7 +263,7 @@ Enfocado en la construcción de soluciones basadas en datos y desarrollo backend
 * Pandas
 * NumPy
 * Matplotlib
-* BioPython
+* Biopython
 
 ### Gobernanza de Datos
 
@@ -249,18 +279,28 @@ Enfocado en la construcción de soluciones basadas en datos y desarrollo backend
 
 ---
 
-# Proyectos Destacados
+## Actualmente Aprendiendo
 
-Una selección de proyectos que combinan análisis de datos, bioinformática y desarrollo de soluciones backend.
+* Desarrollo avanzado con Spring Boot
+* Patrones de arquitectura de software
+* Optimización de bases de datos
+* Prácticas de testing backend
+* Flujos de análisis de datos bioinformáticos
 
-## 📉 Análisis de Churn de Clientes y Dashboard
+---
 
-Proyecto integral de análisis de datos enfocado en la retención de clientes y la identificación de riesgo de pérdida de ingresos.
+## Proyectos Destacados
+
+Una selección de proyectos que combinan análisis de datos, bioinformática y desarrollo backend.
+
+## 📉 Análisis de Churn de Clientes Telco y Dashboard
+
+Proyecto integral de análisis de datos enfocado en la retención de clientes y análisis de riesgo de pérdida de ingresos.
 
 ### Logros Principales
 
 - Procesé y limpié datos de clientes utilizando Python.
-- Construí cohortes de permanencia para identificar patrones de abandono.
+- Construí cohortes de permanencia para identificar patrones de churn.
 - Desarrollé un dashboard interactivo en Power BI.
 - Estimé más de USD 4 millones en ingresos potencialmente en riesgo mediante análisis de churn.
 - Generé recomendaciones accionables para apoyar estrategias de retención.
@@ -271,19 +311,19 @@ Proyecto integral de análisis de datos enfocado en la retención de clientes y 
 
 ---
 
-## 🧬 Análisis de Proteínas E1A y Predicción de Desorden
+## 🧬 Análisis de Proteína E1A y Predicción de Desorden
 
-Flujo de trabajo bioinformático integral para el análisis de secuencias proteicas y predicción de regiones intrínsecamente desordenadas.
+Flujo de trabajo bioinformático integral para el análisis de secuencias proteicas y predicción de desorden.
 
 ### Logros Principales
 
 - Procesé y analicé alineamientos múltiples de secuencias (MSA).
 - Calculé identidad de secuencia y estadísticas de frecuencia de aminoácidos.
 - Estimé radio hidrodinámico y propiedades relacionadas con la distribución de cargas.
-- Integré predicciones de desorden mediante AIUPred en flujos de análisis de secuencias proteicas.
+- Integré predicciones de desorden intrínseco basadas en AIUPred dentro de flujos de análisis de secuencias proteicas.
 - Generé análisis reproducibles y visualizaciones utilizando Python.
 
-**Tecnologías:** Python, BioPython, LocalCIDER, AIUPred, Matplotlib
+**Tecnologías:** Python, Biopython, LocalCIDER, AIUPred, Matplotlib
 
 **Repositorio:** https://github.com/fran9300/bioinformatics-e1a-analysis
 
@@ -291,16 +331,19 @@ Flujo de trabajo bioinformático integral para el análisis de secuencias protei
 
 ## 🍺 API de Gestión de Cervecería
 
-API REST desarrollada con Spring Boot para la gestión de recetas e ingredientes utilizados en elaboración de cerveza.
+API REST desarrollada con Spring Boot para la gestión de recetas e ingredientes.
 
 ### Logros Principales
 
-- Diseñé e implementé una arquitectura en capas utilizando Controller, Service, Repository y manejo global de excepciones.
+- Diseñé e implementé una arquitectura en capas utilizando Controller, Service, Repository y manejo de excepciones.
 - Desarrollé endpoints REST para la gestión de ingredientes y recetas, incluyendo asociaciones entre entidades.
 - Modelé e implementé una relación Many-to-Many entre recetas e ingredientes utilizando JPA/Hibernate.
-- Implementé manejo global de excepciones con respuestas personalizadas para recursos inexistentes y errores de integridad de datos.
-- Implementé persistencia de datos utilizando Spring Data JPA.
+- Implementé manejo global de excepciones con respuestas de error estandarizadas mediante clases de excepción personalizadas.
+- Implementé manejo de requests y responses mediante DTOs para separar contratos de API de entidades de persistencia.
+- Implementé persistencia de datos utilizando Spring Data JPA e Hibernate ORM.
 - Desarrollé la aplicación utilizando PostgreSQL como base de datos relacional.
+- Contenericé el entorno de base de datos utilizando Docker y Docker Compose.
+- Configuré propiedades de base de datos mediante variables de entorno para desarrollo local.
 - Documenté la API mediante referencias de endpoints, diagramas entidad-relación y ejemplos de Postman.
 
 ### Funcionalidades
@@ -308,18 +351,23 @@ API REST desarrollada con Spring Boot para la gestión de recetas e ingredientes
 - Operaciones CRUD de ingredientes (Crear, Consultar, Actualizar, Eliminar)
 - Operaciones CRUD de recetas (Crear, Consultar, Actualizar, Eliminar)
 - Gestión de asociaciones entre recetas e ingredientes
-- Manejo global de excepciones (404 Not Found, 409 Conflict)
+- Manejo global de excepciones con respuestas de error estandarizadas
 - Arquitectura backend en capas con Spring Boot
 - Base de datos relacional PostgreSQL
+- Entorno PostgreSQL con Docker
+- Gestión de configuración basada en entorno
+- Validación de integridad de datos
+- Patrón DTO para requests/responses
+- Configuración mediante variables de entorno
 
 ### Mejoras Futuras
 
-- Documentación con Swagger/OpenAPI
-- Implementación de DTOs
 - Pruebas unitarias
-- Soporte para Docker
+- Autenticación y autorización
+- Pipeline CI/CD con GitHub Actions
+- Análisis de calidad de código con SonarQube
 
-**Tecnologías:** Java, Spring Boot, Spring Data JPA, Hibernate, PostgreSQL, Maven, Lombok
+**Tecnologías:** Java, Spring Boot, Spring Data JPA, Hibernate, PostgreSQL, Docker, Docker Compose, Maven, Lombok
 
 **Repositorio:** https://github.com/fran9300/brewery-management-api
 
@@ -327,14 +375,14 @@ API REST desarrollada con Spring Boot para la gestión de recetas e ingredientes
 
 ## 🎬 Sistema de Gestión de Cine
 
-Proyecto académico enfocado en el desarrollo de un sistema de reservas de entradas de cine, aplicando conceptos de programación orientada a objetos y principios de diseño de software.
+Proyecto académico enfocado en el desarrollo de un sistema de reservas de entradas de cine aplicando conceptos de programación orientada a objetos y principios de diseño de software.
 
 ### Logros Principales
 
-- Diseñé un flujo completo de reservas para películas, horarios, salas y butacas.
+- Diseñé un flujo completo de reservas para películas, horarios, salas y asientos.
 - Implementé lógica de registro y validación de usuarios.
 - Desarrollé reglas de negocio para disponibilidad de asientos, restricciones de edad y compra de entradas.
-- Estructuré la aplicación utilizando componentes modulares para mejorar su mantenimiento.
+- Estructuré la aplicación utilizando componentes modulares para mejorar el mantenimiento.
 - Apliqué conceptos de programación orientada a objetos para el modelado y gestión del sistema.
 
 ### Funcionalidades
@@ -342,10 +390,10 @@ Proyecto académico enfocado en el desarrollo de un sistema de reservas de entra
 - Gestión de películas y horarios
 - Configuración de salas de cine
 - Registro y validación de usuarios
-- Gestión de disponibilidad de butacas
+- Gestión de disponibilidad de asientos
 - Proceso de reserva de entradas
 - Manejo de información de facturación
-- Aplicación de descuentos
+- Aplicación de lógica de descuentos
 
 **Tecnologías:** Python, Programación Orientada a Objetos, Estructuras de Datos
 
@@ -353,7 +401,7 @@ Proyecto académico enfocado en el desarrollo de un sistema de reservas de entra
 
 ---
 
-# Otros Proyectos
+## Otros Proyectos
 
 ## 🧮 Calculadora Java MVC
 
@@ -361,7 +409,7 @@ Aplicación de escritorio desarrollada en Java implementando el patrón arquitec
 
 ### Logros Principales
 
-- Separé la lógica de negocio, interfaz de usuario y manejo de eventos utilizando principios MVC.
+- Separé la lógica de aplicación, interfaz de usuario y manejo de eventos utilizando principios MVC.
 - Implementé operaciones matemáticas y validación de entradas.
 - Desarrollé una interfaz gráfica interactiva utilizando Java Swing.
 - Apliqué buenas prácticas de código limpio y conceptos de programación orientada a objetos.
