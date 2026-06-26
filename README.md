@@ -1,6 +1,8 @@
+![Profile Views](https://komarev.com/ghpvc/?username=fran9300&color=blue)
+
 # Francisco Kin | Bioinformatics Student | Data Analytics & Backend Development
 
-
+## Contents
 
 - [About Me](#about-me)
 - [Technical Skills](#technical-skills)
@@ -16,13 +18,21 @@
 
 ---
 
+## 👋 Welcome
+
+I'm Francisco, a Bioinformatics student passionate about building software and data-driven solutions for scientific and real-world problems.
+
+My interests span backend development, data analytics, and computational biology, with a growing focus on healthcare and life sciences.
+
+---
+
 ## About Me
 
-Bioinformatics student with experience in data analysis, clinical data management, and software development.
+I am a Bioinformatics student with a multidisciplinary background spanning life sciences, clinical research, data analytics, and software development.
 
-Interested in building data-driven solutions that combine programming, databases, and biological knowledge. Currently developing skills in backend development with Java and Spring Boot, while applying Python and data analysis tools to scientific and business problems.
+My experience in healthcare and regulated environments has strengthened my analytical thinking, attention to detail, and ability to work with data-driven processes. Alongside my professional experience, I build software projects that combine backend development, data analysis, and computational biology.
 
-Focused on healthcare, life sciences, and data-driven environments.
+I enjoy solving real-world problems through technology, whether by developing REST APIs with Java and Spring Boot, analyzing datasets with Python, or applying bioinformatics tools to biological research. I'm particularly interested in opportunities where software engineering, data analytics, and science intersect to drive innovation and solve meaningful real-world problems.
 
 ---
 
@@ -47,66 +57,32 @@ Data Quality | Process Auditing | SOP Compliance | Regulatory Documentation
 
 ---
 
+## Current Focus
+
+- Building REST APIs with Spring Boot
+- Improving software architecture and backend design
+- Deepening SQL and database optimization skills
+- Applying Python to bioinformatics and data analytics
+
+---
+
 ## Currently Learning
 
-* Advanced Spring Boot development
-* Software architecture patterns
-* Database optimization
-* Backend testing practices
-* Bioinformatics data analysis workflows
+- Spring Security
+- Backend Testing
+- Flyway
+- Docker
+- Database Optimization
 
 ---
 
 ## Featured Projects
 
-A selection of projects covering data analytics, bioinformatics, and backend development.
-
-## 📉 Telco Customer Churn Analysis & Dashboard
-
-![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
-
-End-to-end analytics project focused on customer retention and revenue-risk analysis.
-
-### Key Achievements
-
-- Processed and cleaned raw customer data using Python.
-- Built customer tenure cohorts to identify churn patterns.
-- Developed an interactive Power BI dashboard.
-- Estimated more than $4M in potential revenue at risk based on churn analysis.
-- Generated actionable recommendations to support retention strategies.
-
-**Tech Stack:** Python, Pandas, NumPy, Power BI, DAX
-
-**Repository:** https://github.com/fran9300/Telco-Customer-Churn-Analysis
+A selection of projects showcasing my experience in backend development, data analytics, and bioinformatics.
 
 ---
 
-## 🧬 E1A Protein Analysis & Disorder Prediction
-
-![Python](https://img.shields.io/badge/Python-Bioinformatics-blue)
-![Biopython](https://img.shields.io/badge/Biopython-Bioinformatics-green)
-![AIUPred](https://img.shields.io/badge/AIUPred-Protein%20Disorder-purple)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
-
-End-to-end bioinformatics workflow for protein sequence analysis and disorder prediction.
-
-### Key Achievements
-
-- Processed and analyzed multiple sequence alignments (MSA).
-- Computed sequence identity and amino acid frequency statistics.
-- Estimated hydrodynamic radius and charge-related properties.
-- Integrated AIUPred-based intrinsic disorder predictions into protein sequence analysis workflows.
-- Produced reproducible analyses and visualizations in Python.
-
-**Tech Stack:** Python, BioPython, LocalCIDER, AIUPred, Matplotlib
-
-**Repository:** https://github.com/fran9300/bioinformatics-e1a-analysis
-
----
-
-## 🍺 Brewery Management API
+### 🍺 Brewery Management API
 
 ![Java](https://img.shields.io/badge/Java-21-orange)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4-green)
@@ -116,23 +92,68 @@ End-to-end bioinformatics workflow for protein sequence analysis and disorder pr
 
 RESTful API built with Spring Boot for managing brewery recipes and ingredients.
 
-### Key Achievements
+#### Key Achievements
 
-- Layered architecture with Controller, Service and Repository pattern.
-- JPA/Hibernate entity relationships.
-- DTO-based request/response handling.
-- Global exception handling.
-- PostgreSQL database with Docker environment.
-- Added Flyway database migrations for version-controlled schema management.
+- Designed a RESTful API following a layered architecture.
+- Modeled many-to-many relationships using JPA/Hibernate.
+- Implemented DTO-based request and response handling.
+- Containerized the application with Docker and PostgreSQL.
+- Introduced Flyway migrations for database version control.
+- Built centralized exception handling for consistent API responses.
 
 
-**Tech Stack:** Java, Spring Boot, Spring Data JPA, Hibernate, PostgreSQL Database, Docker, Docker Compose, Flyway, Maven, Lombok
+**Technologies:** Java, Spring Boot, Spring Data JPA, Hibernate, PostgreSQL Database, Docker, Docker Compose, Flyway, Maven, Lombok
 
-**Repository:** https://github.com/fran9300/brewery-management-api
+**Repository:** [GitHub](https://github.com/fran9300/brewery-management-api)
 
 ---
 
-## 🎬 Cinema Management System
+### 📉 Telco Customer Churn Analysis & Dashboard
+
+![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-purple)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+
+End-to-end analytics project focused on customer retention and revenue-risk analysis.
+
+#### Key Achievements
+
+- Processed and cleaned raw customer data using Python.
+- Built customer tenure cohorts to identify churn patterns.
+- Developed an interactive Power BI dashboard.
+- Estimated more than $4M in potential revenue at risk based on churn analysis.
+- Generated actionable recommendations to support retention strategies.
+
+**Technologies:** Python, Pandas, NumPy, Power BI, DAX
+
+**Repository:** [GitHub](https://github.com/fran9300/Telco-Customer-Churn-Analysis)
+
+---
+
+### 🧬 E1A Protein Analysis & Disorder Prediction
+
+![Python](https://img.shields.io/badge/Python-Bioinformatics-blue)
+![Biopython](https://img.shields.io/badge/Biopython-Bioinformatics-green)
+![AIUPred](https://img.shields.io/badge/AIUPred-Protein%20Disorder-purple)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+
+End-to-end bioinformatics workflow for protein sequence analysis and disorder prediction.
+
+#### Key Achievements
+
+- Processed and analyzed multiple sequence alignments (MSA).
+- Computed sequence identity and amino acid frequency statistics.
+- Estimated hydrodynamic radius and charge-related properties.
+- Integrated AIUPred-based intrinsic disorder predictions into protein sequence analysis workflows.
+- Produced reproducible analyses and visualizations in Python.
+
+**Technologies:** Python, BioPython, LocalCIDER, AIUPred, Matplotlib
+
+**Repository:** [GitHub](https://github.com/fran9300/bioinformatics-e1a-analysis)
+
+---
+
+### 🎬 Cinema Management System
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![OOP](https://img.shields.io/badge/OOP-Design-green)
@@ -140,7 +161,7 @@ RESTful API built with Spring Boot for managing brewery recipes and ingredients.
 
 Academic project focused on developing a cinema ticket reservation system, applying object-oriented programming concepts and software design principles.
 
-### Key Achievements
+#### Key Achievements
 
 - Designed a complete reservation workflow for movies, schedules, rooms, and seats.
 - Implemented user registration and validation logic.
@@ -149,15 +170,15 @@ Academic project focused on developing a cinema ticket reservation system, apply
 - Applied object-oriented programming concepts for system modeling and management.
 
 
-**Tech Stack:** Python, Object-Oriented Programming, Data Structures
+**Technologies:** Python, Object-Oriented Programming, Data Structures
 
-**Repository:** https://github.com/fran9300/cinema-management-system
+**Repository:** [GitHub](https://github.com/fran9300/cinema-management-system)
 
 ---
 
 ## Other Projects
 
-## 🧮 Java Calculator MVC
+### 🧮 Java Calculator MVC
 
 ![Java](https://img.shields.io/badge/Java-17-orange)
 ![Swing](https://img.shields.io/badge/Java%20Swing-GUI-blue)
@@ -165,27 +186,35 @@ Academic project focused on developing a cinema ticket reservation system, apply
 
 Desktop calculator application developed in Java implementing the Model-View-Controller (MVC) architectural pattern.
 
-### Key Achievements
+#### Key Achievements
 
 - Separated application logic, user interface, and event handling using MVC principles.
 - Implemented arithmetic operations and input validation.
 - Developed an interactive graphical interface using Java Swing.
 - Applied clean code practices and object-oriented programming concepts.
 
-**Tech Stack:** Java, Java Swing, MVC Pattern
+**Technologies:** Java, Java Swing, MVC Pattern
 
-**Repository:** https://github.com/fran9300/java-calculator-mvc
+**Repository:** [GitHub](https://github.com/fran9300/java-calculator-mvc)
 
 ---
 
 ## Professional Background
 
-Experienced in environments where data accuracy, process compliance, and operational efficiency are critical. My professional background includes clinical research operations, logistics, and technical support, providing a multidisciplinary perspective for solving analytical and software development challenges.
+My professional experience spans clinical research, project coordination, logistics, and technical support. Working in regulated healthcare environments has strengthened my attention to detail, process compliance, and analytical problem-solving.
+
+These experiences complement my technical background and influence how I approach software development and data analysis projects. 
 
 ---
 
 ## Contact
 
-* LinkedIn: https://linkedin.com/in/francisco-kin
-* Email: [frankin930@gmail.com](mailto:frankin930@gmail.com)
-* GitHub: https://github.com/fran9300
+- 💼 [LinkedIn](https://linkedin.com/in/francisco-kin)
+- 📧 [frankin930@gmail.com](mailto:frankin930@gmail.com)
+- 💻 [GitHub](https://github.com/fran9300)
+
+---
+
+Thanks for visiting my profile!
+
+Feel free to explore my projects or connect with me on LinkedIn if you'd like to discuss backend development, data analytics, bioinformatics, or opportunities in science and healthcare.
