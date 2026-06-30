@@ -8,6 +8,7 @@
 - [Technical Skills](#technical-skills)
 - [Currently Learning](#currently-learning)
 - [Featured Projects](#featured-projects)
+  - [Protein Evolution Explorer](#-protein-evolution-explorer--full-stack-bioinformatics-platform)
   - [Telco Customer Churn Analysis](#-telco-customer-churn-analysis--dashboard)
   - [E1A Protein Analysis](#-e1a-protein-analysis--disorder-prediction)
   - [Brewery Management API](#-brewery-management-api)
@@ -16,7 +17,7 @@
 - [Professional Background](#professional-background)
 - [Contact](#contact)
 
----
+
 
 ## 👋 Welcome
 
@@ -24,7 +25,7 @@ I'm Francisco, a Bioinformatics student passionate about building software and d
 
 My interests span backend development, data analytics, and computational biology, with a growing focus on healthcare and life sciences.
 
----
+
 
 ## About Me
 
@@ -34,7 +35,7 @@ My experience in healthcare and regulated environments has strengthened my analy
 
 I enjoy solving real-world problems through technology, whether by developing REST APIs with Java and Spring Boot, analyzing datasets with Python, or applying bioinformatics tools to biological research. I'm particularly interested in opportunities where software engineering, data analytics, and science intersect to drive innovation and solve meaningful real-world problems.
 
----
+
 
 ## Technical Skills
 
@@ -55,7 +56,7 @@ Data Quality | Process Auditing | SOP Compliance | Regulatory Documentation
 * Google Data Analytics Professional Certificate (2026)
 * Oracle Next Education (ONE) Program (2023)
 
----
+
 
 ## Current Focus
 
@@ -64,7 +65,7 @@ Data Quality | Process Auditing | SOP Compliance | Regulatory Documentation
 - Deepening SQL and database optimization skills
 - Applying Python to bioinformatics and data analytics
 
----
+
 
 ## Currently Learning
 
@@ -74,11 +75,44 @@ Data Quality | Process Auditing | SOP Compliance | Regulatory Documentation
 - Docker
 - Database Optimization
 
----
+
 
 ## Featured Projects
 
 A selection of projects showcasing my experience in backend development, data analytics, and bioinformatics.
+
+---
+
+### 🧬 Protein Evolution Explorer | Full-Stack Bioinformatics Platform
+
+![React](https://img.shields.io/badge/React-TypeScript-blue)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Backend-green)
+![Python](https://img.shields.io/badge/Python-FastAPI-yellow)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![Docker](https://img.shields.io/badge/Docker-Containerization-blue)
+
+Full-stack bioinformatics platform for protein sequence analysis, combining computational biology workflows with modern web technologies.
+
+The project integrates a React frontend, Spring Boot backend, and Python-based analysis service to process FASTA sequences and store biological analysis results.
+
+#### Key Achievements
+
+- Built a complete full-stack architecture connecting frontend, backend, and bioinformatics services.
+- Developed REST APIs using Spring Boot for protein analysis management.
+- Implemented FASTA sequence processing and physicochemical protein calculations using Python and FastAPI.
+- Designed PostgreSQL persistence using JPA/Hibernate.
+- Created a React + TypeScript interface for uploading sequences and exploring analysis results.
+- Applied layered architecture principles across backend components.
+- Containerized development environment using Docker.
+
+**Technologies:** React, TypeScript, Tailwind CSS, Java, Spring Boot, Spring Data JPA, Hibernate, PostgreSQL, Python, FastAPI, Biopython, Docker
+
+**Repositories:**
+
+- [Main Project Repository](https://github.com/fran9300/protein-evolution-explorer)
+- [Frontend](https://github.com/fran9300/protein-evolution-frontend)
+- [Backend](https://github.com/fran9300/protein-evolution-backend)
+- [Analyzer](https://github.com/fran9300/protein-evolution-analyzer)
 
 ---
 
